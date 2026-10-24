@@ -1,0 +1,6 @@
+{
+  "name": "Oğulr - GitHub Microblog",
+  "description": "GitHub üzerinde saklanan entries.json dosyasından beslenen, tweet benzeri minimalist kişisel düşünce akışı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
